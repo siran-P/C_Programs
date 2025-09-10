@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-
+ 
 int catchTheif(char arr[],int k){
     int n=strlen(arr);
     int c=0;
